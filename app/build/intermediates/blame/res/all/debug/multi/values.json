@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\lauric\\Desktop\\projetutore\\app\\build\\intermediates\\incremental\\mergeAllDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\lauric\\Desktop\\projetutore\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 50,
+                        "endOffset": 905
+                    }
+                }
+            }
+        ]
+    }
+]

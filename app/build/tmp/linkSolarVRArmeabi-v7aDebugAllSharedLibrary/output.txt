@@ -1,0 +1,4 @@
+See file:///C:/Users/lauric/Desktop/projetutore/app/build/tmp/linkSolarVRArmeabi-v7aDebugAllSharedLibrary/output.txt for all output for linkSolarVRArmeabi-v7aDebugAllSharedLibrary.
+linking libSolarVR.so successful.
+
+Finished linkSolarVRArmeabi-v7aDebugAllSharedLibrary, see full log file:///C:/Users/lauric/Desktop/projetutore/app/build/tmp/linkSolarVRArmeabi-v7aDebugAllSharedLibrary/output.txt.

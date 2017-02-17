@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\lauric\\Desktop\\projetutore\\app\\build\\intermediates\\res\\merged\\all\\debug\\raw\\basic_fs.shader",
+        "source": "C:\\Users\\lauric\\Desktop\\projetutore\\app\\src\\main\\res\\raw\\basic_fs.shader"
+    },
+    {
+        "merged": "C:\\Users\\lauric\\Desktop\\projetutore\\app\\build\\intermediates\\res\\merged\\all\\debug\\raw\\basic_vs.shader",
+        "source": "C:\\Users\\lauric\\Desktop\\projetutore\\app\\src\\main\\res\\raw\\basic_vs.shader"
+    }
+]

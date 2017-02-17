@@ -1,0 +1,4 @@
+See file:///C:/Users/lauric/Desktop/projetutore/app/build/tmp/linkSolarVRMipsDebugAllSharedLibrary/output.txt for all output for linkSolarVRMipsDebugAllSharedLibrary.
+linking libSolarVR.so successful.
+
+Finished linkSolarVRMipsDebugAllSharedLibrary, see full log file:///C:/Users/lauric/Desktop/projetutore/app/build/tmp/linkSolarVRMipsDebugAllSharedLibrary/output.txt.

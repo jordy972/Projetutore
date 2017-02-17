@@ -1,0 +1,31 @@
+See file:///C:/Users/lauric/Desktop/projetutore/app/build/tmp/compileSolarVRMipsDebugAllSharedLibrarySolarVRMipsDebugAllSharedLibraryMainC/output.txt for all output for compileSolarVRMipsDebugAllSharedLibrarySolarVRMipsDebugAllSharedLibraryMainC.
+compiling bin_tree.c successful.
+
+compiling gl4dm.c successful.
+
+compiling gl4dq.c successful.
+
+compiling aes.c successful.
+
+compiling gl4droid.c successful.
+
+compiling gl4dummies.c successful.
+
+compiling linked_list.c successful.
+
+compiling list.c successful.
+
+compiling gl4du.c successful.
+
+compiling vector.c successful.
+
+compiling gl_code.c successful.
+C:\Users\lauric\Desktop\projetutore\app\src\main\jni\gl_code.c: In function 'Java_com_android_SolarVR_SolarVRLib_init':
+C:\Users\lauric\Desktop\projetutore\app\src\main\jni\gl_code.c:486:17: warning: initialization discards 'const' qualifier from pointer target type
+     char * vs = (*env)->GetStringUTFChars(env, vshader, NULL);
+                 ^
+C:\Users\lauric\Desktop\projetutore\app\src\main\jni\gl_code.c:487:17: warning: initialization discards 'const' qualifier from pointer target type
+     char * fs = (*env)->GetStringUTFChars(env, fshader, NULL);
+                 ^
+
+Finished compileSolarVRMipsDebugAllSharedLibrarySolarVRMipsDebugAllSharedLibraryMainC, see full log file:///C:/Users/lauric/Desktop/projetutore/app/build/tmp/compileSolarVRMipsDebugAllSharedLibrarySolarVRMipsDebugAllSharedLibraryMainC/output.txt.
